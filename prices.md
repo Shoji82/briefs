@@ -67,3 +67,12 @@ Monthly only. Other listed Cursor prices exclude tax. [https://cursor.com/pricin
 - India Start is ₹649 a month, tax inclusive.
 
 Notion, Fireflies, Otter, Perplexity, and Canva were left out because the pages didn't support a clean price.
+
+## Related notes
+
+- [Is there one ChatGPT training rule for every plan?](chatgpt-training-default.md)
+- [What is the training default for Claude Pro and Max?](claude-pro-max-training.md)
+- [Is Keep Activity on by default in Gemini Apps?](gemini-apps-keep-activity.md)
+- [Does a person review Microsoft Copilot prompts?](microsoft-copilot-human-review.md)
+- [Is there one GitHub Copilot training rule for every plan?](copilot-training.md)
+- [What is the default for Cursor Privacy Mode on the Teams plan?](cursor-privacy-mode.md)

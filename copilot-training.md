@@ -29,3 +29,7 @@ For Business and Enterprise, the product FAQ is a flat no, on [https://github.co
 The hosting page does not say GitHub's training use of individual subscribers' prompts is separate from a provider's do-not-train promise. This note does not infer that. Provider lines on that page (OpenAI, Amazon Bedrock, Anthropic, Google, Gemini, xAI, Fireworks) stay labeled as provider commitments, and they are silent on which Copilot plan.
 
 This note does not recommend a plan.
+
+## Related notes
+
+- [What do the listed AI plans cost?](prices.md)

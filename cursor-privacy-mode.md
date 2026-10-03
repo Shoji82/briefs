@@ -32,3 +32,7 @@ These pages say Privacy Mode can be enabled or enforced, and they are silent on 
 Some models, Claude Fable 5 and 5.1, store inputs and outputs for harm-prevention review, and that data is not used for training. They need approval for Enterprise customers, Teams with Privacy Mode enabled, and individual customers with Privacy Mode enabled. Source: [https://cursor.com/docs/enterprise/privacy-and-data-governance](https://cursor.com/docs/enterprise/privacy-and-data-governance). A personal account might not have Privacy Mode enabled. That is not a sentence that individual plans are off by default.
 
 This note does not recommend a plan.
+
+## Related notes
+
+- [What do the listed AI plans cost?](prices.md)
