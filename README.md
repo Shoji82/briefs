@@ -1,6 +1,6 @@
 # Briefs
 
-Unpublished research turned into nine public notes. Prices and quotes were read from vendor pages on 3 October 2026. This is not a buying recommendation.
+Unpublished research turned into ten public notes. Prices and quotes were read from vendor pages on 3 October 2026. This is not a buying recommendation.
 
 - [What the listed AI plans cost](prices.md)
 - [Questions the pages still ask](questions.md)
@@ -11,3 +11,4 @@ Unpublished research turned into nine public notes. Prices and quotes were read 
 - [ChatGPT training, and the default](chatgpt-training-default.md)
 - [Microsoft Copilot, and human review](microsoft-copilot-human-review.md)
 - [Google foundation models, and training data](google-foundation-training.md)
+- [Gemini Apps, and Keep Activity](gemini-apps-keep-activity.md)
