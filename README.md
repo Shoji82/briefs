@@ -11,4 +11,4 @@ Ten public notes. Prices and quotes were read from vendor pages on 3 October 202
 - [Is there one ChatGPT training rule for every plan?](chatgpt-training-default.md)
 - [Does a person review Microsoft Copilot prompts?](microsoft-copilot-human-review.md)
 - [Are Workspace customer prompts in Google's foundation-model training set?](google-foundation-training.md)
-- [Is Keep Activity on by default in Gemini Apps?](gemini-apps-keep-activity.md)
+- [Is Gemini Keep Activity on by default?](gemini-apps-keep-activity.md)

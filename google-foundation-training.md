@@ -30,4 +30,4 @@ This note does not recommend a plan.
 
 - [What questions do the pages still ask?](questions.md)
 - [What do the pages say about training and data?](training-and-data.md)
-- [Is Keep Activity on by default in Gemini Apps?](gemini-apps-keep-activity.md)
+- [Is Gemini Keep Activity on by default?](gemini-apps-keep-activity.md)
