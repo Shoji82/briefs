@@ -78,3 +78,10 @@ Small Business Majority, 2026 Q3 Voice of Main Street, question 6 only: "When th
   ]
 }
 </script>
+
+## Related notes
+
+- [What do the pages say about training and data?](training-and-data.md)
+- [What is the training default for Claude Pro and Max?](claude-pro-max-training.md)
+- [Is there one ChatGPT training rule for every plan?](chatgpt-training-default.md)
+- [Does a person review Microsoft Copilot prompts?](microsoft-copilot-human-review.md)

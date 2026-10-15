@@ -33,3 +33,5 @@ This note does not recommend a plan.
 ## Related notes
 
 - [What do the listed AI plans cost?](prices.md)
+- [Is there one ChatGPT training rule for every plan?](chatgpt-training-default.md)
+- [What is the default for Cursor Privacy Mode on the Teams plan?](cursor-privacy-mode.md)

@@ -43,3 +43,4 @@ This note does not recommend a plan.
 
 - [What questions do the pages still ask?](questions.md)
 - [What do the pages say about training and data?](training-and-data.md)
+- [Is there one GitHub Copilot training rule for every plan?](copilot-training.md)

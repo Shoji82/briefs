@@ -1,0 +1,16 @@
+# Briefs
+
+> Ten public notes. Prices and quotes were read from vendor pages on 3 October 2026. This is not a buying recommendation.
+
+## Notes
+
+- [What do the listed AI plans cost?](https://shoji82.github.io/briefs/prices.html): These prices were read from vendor pages on 3 October 2026. They can change. This is not a buying recommendation.
+- [What questions do the pages still ask?](https://shoji82.github.io/briefs/questions.html): These questions were read from the pages on 3 October 2026, including https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training.
+- [What do the pages say about training and data?](https://shoji82.github.io/briefs/training-and-data.html): These quotes were read on 3 October 2026.
+- [Is there one GitHub Copilot training rule for every plan?](https://shoji82.github.io/briefs/copilot-training.html): As of 4 October 2026, this note does not state one training rule for every plan.
+- [What is the training default for Claude Pro and Max?](https://shoji82.github.io/briefs/claude-pro-max-training.html): As of 4 October 2026, this note does not state one default.
+- [What is the default for Cursor Privacy Mode on the Teams plan?](https://shoji82.github.io/briefs/cursor-privacy-mode.html): As of 4 October 2026, this note does not state one default for the Teams plan.
+- [Is there one ChatGPT training rule for every plan?](https://shoji82.github.io/briefs/chatgpt-training-default.html): As of 4 October 2026, this note does not state one rule for every plan.
+- [Does a person review Microsoft Copilot prompts?](https://shoji82.github.io/briefs/microsoft-copilot-human-review.html): As of 4 October 2026, this note does not say a person never sees a prompt.
+- [Are Workspace customer prompts in Google's foundation-model training set?](https://shoji82.github.io/briefs/google-foundation-training.html): As of 4 October 2026, this note does not say Workspace customer prompts are, or are not, in that training set.
+- [Is Gemini Keep Activity on by default?](https://shoji82.github.io/briefs/gemini-apps-keep-activity.html): For a personal account, 18 or over, Gemini Keep Activity is on by default. The Privacy Hub does not say. Work or school accounts are admin-controlled.
