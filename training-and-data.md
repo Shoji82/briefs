@@ -9,6 +9,8 @@ date: 2026-10-03
 What do the pages say about training and data?
 These quotes were read on 3 October 2026. This is not a buying recommendation. One page quoted here is [https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training](https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training).
 
+Updated 2 November 2026: the page dates for the Claude Team and Enterprise deletion article and the Google Workspace Privacy Hub below were corrected after both pages were re-read on 2 November 2026; the quoted sentences are unchanged.
+
 ## Anthropic, commercial products
 
 [https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training](https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training) Page date 18 August 2026. By default, Anthropic will not use inputs or outputs from commercial products to train models. If you report feedback or bugs, or choose to allow use, they may use chats and coding sessions to train models.
