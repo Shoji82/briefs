@@ -1,15 +1,21 @@
 ---
 title: "What do the pages say about training and data?"
 description: "These quotes were read on 3 October 2026. This is not a buying recommendation. One page quoted here is https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training."
+last_modified_at: 2026-11-02
+seo:
+  type: Article
 date: 2026-10-03
 ---
 
 # What do the pages say about training and data?
 
-What do the pages say about training and data?
 These quotes were read on 3 October 2026. This is not a buying recommendation. One page quoted here is [https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training](https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training).
 
 Updated 2 November 2026: the page dates for the Claude Team and Enterprise deletion article and the Google Workspace Privacy Hub below were corrected after both pages were re-read on 2 November 2026; the quoted sentences are unchanged.
+
+Last checked: 2 November 2026. Every page below was re-read that day.
+
+Updated 2 November 2026 (second change): the OpenAI FAQ header now reads "Updated: 13 days ago" (was "updated 2 months ago"); the sentences quoted from it are unchanged.
 
 ## Anthropic, commercial products
 
@@ -25,7 +31,7 @@ Updated 2 November 2026: the page dates for the Claude Team and Enterprise delet
 
 ## OpenAI
 
-[https://help.openai.com/en/articles/6783457-chatgpt-general-faq](https://help.openai.com/en/articles/6783457-chatgpt-general-faq) Header says updated 2 months ago. When you use services for individuals such as ChatGPT, OpenAI may use your content to train models. Once you opt out, new conversations will not be used. They don't use content from ChatGPT Business or Enterprise to train models. You can delete your data by following the data deletion process. You cannot delete specific prompts. They review conversations to improve systems and to check policy and safety. Subject to the Content Policy and Terms, you own the output, including the right to reprint, sell, and merchandise, free or paid. ChatGPT is free to use, and subscription plans exist on the pricing page. That sentence does not give plan prices.
+[https://help.openai.com/en/articles/6783457-chatgpt-general-faq](https://help.openai.com/en/articles/6783457-chatgpt-general-faq) Header said "Updated: 13 days ago" on 2 November 2026. When you use services for individuals such as ChatGPT, OpenAI may use your content to train models. Once you opt out, new conversations will not be used. They don't use content from ChatGPT Business or Enterprise to train models. You can delete your data by following the data deletion process. You cannot delete specific prompts. They review conversations to improve systems and to check policy and safety. Subject to the Content Policy and Terms, you own the output, including the right to reprint, sell, and merchandise, free or paid. ChatGPT is free to use, and subscription plans exist on the pricing page. That sentence does not give plan prices.
 
 The page still prints this trust reply: ChatGPT is not connected to the internet, can produce incorrect answers, and has limited knowledge of the world and events after 2021. That reply is not current product behavior.
 
@@ -37,7 +43,7 @@ The page still prints this trust reply: ChatGPT is not connected to the internet
 ## Related notes
 
 - [What questions do the pages still ask?](questions.md)
-- [What is the training default for Claude Pro and Max?](claude-pro-max-training.md)
-- [Is there one ChatGPT training rule for every plan?](chatgpt-training-default.md)
+- [Does Claude Pro or Max train on your chats? Yes, if the setting is on](claude-pro-max-training.md)
+- [Does ChatGPT train on your chats? On by default for Free, Plus and Pro; off by default for Business](chatgpt-training-default.md)
 - [Does a person review Microsoft Copilot prompts?](microsoft-copilot-human-review.md)
 - [Are Workspace customer prompts in Google's foundation-model training set?](google-foundation-training.md)
