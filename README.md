@@ -12,3 +12,5 @@ Ten public notes. Prices and quotes were read from vendor pages on 3 October 202
 - [Does a person review Microsoft Copilot prompts?](microsoft-copilot-human-review.md)
 - [Are Workspace customer prompts in Google's foundation-model training set?](google-foundation-training.md)
 - [Is Gemini Keep Activity on by default?](gemini-apps-keep-activity.md)
+
+`google98d84af3e7839cac.html` is the Google Search Console verification file for this site.
