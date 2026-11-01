@@ -83,7 +83,7 @@ Notion, Fireflies, Otter, Perplexity, and Canva were left out because the pages 
 
 - [Does ChatGPT train on your chats? On by default for Free, Plus and Pro; off by default for Business](chatgpt-training-default.md)
 - [Does Claude Pro or Max train on your chats? Yes, if the setting is on](claude-pro-max-training.md)
-- [Is Gemini Keep Activity on by default?](gemini-apps-keep-activity.md)
+- [Gemini Keep Activity: on by default for personal accounts, 18+](gemini-apps-keep-activity.md)
 - [Does a person review Microsoft Copilot prompts?](microsoft-copilot-human-review.md)
-- [Is there one GitHub Copilot training rule for every plan?](copilot-training.md)
-- [What is the default for Cursor Privacy Mode on the Teams plan?](cursor-privacy-mode.md)
+- [Does GitHub Copilot train on your code? Free, Pro, Pro+ and Max may, unless you opt out; Business and Enterprise don't](copilot-training.md)
+- [Cursor Privacy Mode: what it does, how to turn it on, and the default by plan](cursor-privacy-mode.md)

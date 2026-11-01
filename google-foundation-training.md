@@ -37,4 +37,4 @@ This note does not recommend a plan.
 
 - [What questions do the pages still ask?](questions.md)
 - [What do the pages say about training and data?](training-and-data.md)
-- [Is Gemini Keep Activity on by default?](gemini-apps-keep-activity.md)
+- [Gemini Keep Activity: on by default for personal accounts, 18+](gemini-apps-keep-activity.md)
