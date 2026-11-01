@@ -1,13 +1,19 @@
 ---
 title: "What do the listed AI plans cost?"
 description: "These prices were read from vendor pages on 3 October 2026, except Claude and Cursor, read on 1 November 2026. They can change. This is not a buying recommendation. https://learn.chatgpt.com/docs/pricing"
+last_modified_at: 2026-11-02
+seo:
+  type: Article
 date: 2026-10-03
 ---
 
 # What do the listed AI plans cost?
 
-What do the listed AI plans cost?
 These prices were read from vendor pages on 3 October 2026, except Claude and Cursor, read on 1 November 2026. They can change. This is not a buying recommendation. [https://learn.chatgpt.com/docs/pricing](https://learn.chatgpt.com/docs/pricing)
+
+Last checked: the Claude and Cursor sections were re-read on 2 November 2026. The ChatGPT, Gemini, Microsoft 365 Copilot and GitHub Copilot sections were last read on 3 October 2026.
+
+Updated 2 November 2026: added the Last checked line above and removed the repeated question line under the heading. No prices changed.
 
 ## ChatGPT
 
@@ -75,8 +81,8 @@ Notion, Fireflies, Otter, Perplexity, and Canva were left out because the pages 
 
 ## Related notes
 
-- [Is there one ChatGPT training rule for every plan?](chatgpt-training-default.md)
-- [What is the training default for Claude Pro and Max?](claude-pro-max-training.md)
+- [Does ChatGPT train on your chats? On by default for Free, Plus and Pro; off by default for Business](chatgpt-training-default.md)
+- [Does Claude Pro or Max train on your chats? Yes, if the setting is on](claude-pro-max-training.md)
 - [Is Gemini Keep Activity on by default?](gemini-apps-keep-activity.md)
 - [Does a person review Microsoft Copilot prompts?](microsoft-copilot-human-review.md)
 - [Is there one GitHub Copilot training rule for every plan?](copilot-training.md)
