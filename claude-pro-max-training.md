@@ -1,13 +1,15 @@
 ---
 title: "What is the training default for Claude Pro and Max?"
-description: "As of 4 October 2026, this note does not state one default. https://privacy.claude.com/en/articles/10023580-is-my-data-used-for-model-training does not say the choice starts on or off."
+description: "As of 1 November 2026, this note does not state one default. https://privacy.claude.com/en/articles/10023580-is-my-data-used-for-model-training does not say the choice starts on or off."
 date: 2026-10-04
 ---
 
 # What is the training default for Claude Pro and Max?
 
 What is the training default for Claude Pro and Max?
-As of 4 October 2026, this note does not state one default. [https://privacy.claude.com/en/articles/10023580-is-my-data-used-for-model-training](https://privacy.claude.com/en/articles/10023580-is-my-data-used-for-model-training) does not say the choice starts on or off.
+As of 1 November 2026, this note does not state one default. [https://privacy.claude.com/en/articles/10023580-is-my-data-used-for-model-training](https://privacy.claude.com/en/articles/10023580-is-my-data-used-for-model-training) does not say the choice starts on or off.
+
+Updated 1 November 2026: Claude added an Ultra plan. The Claude Code data-usage line now adds Ultra, and the claude.com/pricing training row now names Max and Ultra (replacing Max 5x and Max 20x); both pages and the article above were re-read on 1 November 2026.
 
 ## What the consumer pages say
 
@@ -15,7 +17,7 @@ As of 4 October 2026, this note does not state one default. [https://privacy.cla
 
 [https://privacy.claude.com/en/articles/10023555-how-do-you-use-personal-data-in-model-training](https://privacy.claude.com/en/articles/10023555-how-do-you-use-personal-data-in-model-training) (16 March 2026) is the same structure for consumer offerings, including Pro and Max, and lists thumbs up/down feedback as its own condition.
 
-[https://code.claude.com/docs/en/data-usage](https://code.claude.com/docs/en/data-usage) says Anthropic will train new models using data from Free, Pro, and Max accounts when this setting is on, including Claude Code from those accounts. It does not say the setting starts on. Users who allow it: 5-year retention. Users who do not: 30 days. A session-quality survey cannot be used to train models.
+[https://code.claude.com/docs/en/data-usage](https://code.claude.com/docs/en/data-usage) says Anthropic will train new models using data from Free, Pro, Max, and Ultra accounts when this setting is on, including Claude Code from those accounts. It does not say the setting starts on. Users who allow it: 5-year retention. Users who do not: 30 days. A session-quality survey cannot be used to train models.
 
 [https://privacy.claude.com/en/articles/12109829-how-do-i-change-my-model-improvement-privacy-settings](https://privacy.claude.com/en/articles/12109829-how-do-i-change-my-model-improvement-privacy-settings) (3 August 2026): turning the setting off stops future training use of new chats and coding sessions, and previously stored ones stop being used in future runs. Already-started runs and already-trained models still include the data. Flagged conversations may still be used for internal trust and safety models. The page is silent on the starting position.
 
@@ -35,7 +37,7 @@ This note does not treat Pro or Max as commercial.
 
 [https://www.anthropic.com/legal/privacy](https://www.anthropic.com/legal/privacy) (effective 10 September 2026) says inputs and outputs may be used to train unless the user opts out. That sentence does not name Pro or Max. The consumer articles and Claude Code docs say use if the user allows it, or when the setting is on, and they do not say the setting starts on. This note does not pick a winner.
 
-[https://claude.com/pricing](https://claude.com/pricing) labels Model training as Opt-out under Free, Pro, Max 5x, and Max 20x, and None by default under Team and Enterprise. The table does not define Opt-out.
+[https://claude.com/pricing](https://claude.com/pricing) labels Model training as Opt-out under Free, Pro, Max, and Ultra, and None by default under Team and Enterprise. The table does not define Opt-out.
 
 Claude Code docs say Developer Partner Program. [https://privacy.claude.com/en/articles/7996885-how-do-you-use-personal-data-in-model-training](https://privacy.claude.com/en/articles/7996885-how-do-you-use-personal-data-in-model-training) says Development Partner Program. This note reports both names and does not pick one.
 
