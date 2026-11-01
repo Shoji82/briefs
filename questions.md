@@ -1,13 +1,19 @@
 ---
 title: "What questions do the pages still ask?"
 description: "These questions were read from the pages on 3 October 2026, including https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training."
+last_modified_at: 2026-11-02
+seo:
+  type: Article
 date: 2026-10-03
 ---
 
 # What questions do the pages still ask?
 
-What questions do the pages still ask?
 These questions were read from the pages on 3 October 2026, including [https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training](https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training).
+
+Last checked: 2 November 2026. Every question below was found again on its page that day.
+
+Updated 2 November 2026: the OpenAI FAQ header now reads "Updated: 13 days ago" (was "updated 2 months ago"); its questions and the trust reply are unchanged. A duplicated Related notes list was removed.
 
 ## Anthropic, commercial products
 
@@ -33,7 +39,7 @@ These questions were read from the pages on 3 October 2026, including [https://p
 - "Can I use output from ChatGPT for commercial uses?"
 - "How much does it cost to use ChatGPT?" The cost answer says ChatGPT is free to use and that subscription plans exist. It does not print plan prices.
 
-The same page asks "Can I trust that the AI is telling me the truth?" The article header says updated 2 months ago. The page still prints a reply that says ChatGPT is not connected to the internet, can produce incorrect answers, and has limited knowledge of the world after 2021. This note does not treat that reply as current product behavior.
+The same page asks "Can I trust that the AI is telling me the truth?" The article header said "Updated: 13 days ago" on 2 November 2026. The page still prints a reply that says ChatGPT is not connected to the internet, can produce incorrect answers, and has limited knowledge of the world after 2021. This note does not treat that reply as current product behavior.
 
 ## Microsoft 365 Copilot
 
@@ -49,8 +55,8 @@ Small Business Majority, 2026 Q3 Voice of Main Street, question 6 only: "When th
 ## Related notes
 
 - [What do the pages say about training and data?](training-and-data.md)
-- [What is the training default for Claude Pro and Max?](claude-pro-max-training.md)
-- [Is there one ChatGPT training rule for every plan?](chatgpt-training-default.md)
+- [Does Claude Pro or Max train on your chats? Yes, if the setting is on](claude-pro-max-training.md)
+- [Does ChatGPT train on your chats? On by default for Free, Plus and Pro; off by default for Business](chatgpt-training-default.md)
 - [Does a person review Microsoft Copilot prompts?](microsoft-copilot-human-review.md)
 - [Are Workspace customer prompts in Google's foundation-model training set?](google-foundation-training.md)
 
@@ -72,16 +78,9 @@ Small Business Majority, 2026 Q3 Voice of Main Street, question 6 only: "When th
       "name": "Can I trust that the AI is telling me the truth?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The article header says updated 2 months ago. The page still prints a reply that says ChatGPT is not connected to the internet, can produce incorrect answers, and has limited knowledge of the world after 2021. This note does not treat that reply as current product behavior."
+        "text": "The article header said \"Updated: 13 days ago\" on 2 November 2026. The page still prints a reply that says ChatGPT is not connected to the internet, can produce incorrect answers, and has limited knowledge of the world after 2021. This note does not treat that reply as current product behavior."
       }
     }
   ]
 }
 </script>
-
-## Related notes
-
-- [What do the pages say about training and data?](training-and-data.md)
-- [What is the training default for Claude Pro and Max?](claude-pro-max-training.md)
-- [Is there one ChatGPT training rule for every plan?](chatgpt-training-default.md)
-- [Does a person review Microsoft Copilot prompts?](microsoft-copilot-human-review.md)
