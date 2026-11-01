@@ -12,5 +12,5 @@
 - [What is the default for Cursor Privacy Mode on the Teams plan?](https://shoji82.github.io/briefs/cursor-privacy-mode.html): As of 4 October 2026, this note does not state one default for the Teams plan.
 - [Is there one ChatGPT training rule for every plan?](https://shoji82.github.io/briefs/chatgpt-training-default.html): As of 4 October 2026, this note does not state one rule for every plan.
 - [Does a person review Microsoft Copilot prompts?](https://shoji82.github.io/briefs/microsoft-copilot-human-review.html): As of 2 November 2026, this note does not say a person never sees a prompt.
-- [Are Workspace customer prompts in Google's foundation-model training set?](https://shoji82.github.io/briefs/google-foundation-training.html): As of 4 October 2026, this note does not say Workspace customer prompts are, or are not, in that training set.
+- [Are Workspace customer prompts in Google's foundation-model training set?](https://shoji82.github.io/briefs/google-foundation-training.html): As of 2 November 2026, this note does not say Workspace customer prompts are, or are not, in that training set.
 - [Is Gemini Keep Activity on by default?](https://shoji82.github.io/briefs/gemini-apps-keep-activity.html): For a personal account, 18 or over, Gemini Keep Activity is on by default. The Privacy Hub does not say. Work or school accounts are admin-controlled.
