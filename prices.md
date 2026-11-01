@@ -1,13 +1,13 @@
 ---
 title: "What do the listed AI plans cost?"
-description: "These prices were read from vendor pages on 3 October 2026. They can change. This is not a buying recommendation. https://learn.chatgpt.com/docs/pricing"
+description: "These prices were read from vendor pages on 3 October 2026, except Claude and Cursor, read on 1 November 2026. They can change. This is not a buying recommendation. https://learn.chatgpt.com/docs/pricing"
 date: 2026-10-03
 ---
 
 # What do the listed AI plans cost?
 
 What do the listed AI plans cost?
-These prices were read from vendor pages on 3 October 2026. They can change. This is not a buying recommendation. [https://learn.chatgpt.com/docs/pricing](https://learn.chatgpt.com/docs/pricing)
+These prices were read from vendor pages on 3 October 2026, except Claude and Cursor, read on 1 November 2026. They can change. This is not a buying recommendation. [https://learn.chatgpt.com/docs/pricing](https://learn.chatgpt.com/docs/pricing)
 
 ## ChatGPT
 
@@ -20,13 +20,16 @@ Seen 3 October 2026.
 
 ## Claude
 
+Seen 1 November 2026. Updated 1 November 2026: Max 5x/20x replaced by Max at $100 and a new Ultra at $200; Enterprise now lists a 20 seat minimum.
+
 Prices on this page exclude tax. [https://claude.com/pricing](https://claude.com/pricing)
 
 - Free is $0.
 - Pro is $17 a month on the annual plan ($200 up front), or $20 billed monthly.
-- Max starts from $100 a month.
+- Max is $100 a month.
+- Ultra is $200 a month.
 - Team. Standard is $20 per seat a month billed annually, or $25 per seat a month billed monthly. Premium is $100 per seat a month billed annually, or $125 per seat a month billed monthly.
-- Enterprise is $20 per seat per month, plus API usage, billed annually.
+- Enterprise is $20 per seat per month, plus API usage, billed annually, with a 20 seat minimum.
 
 ## Gemini
 
@@ -56,15 +59,17 @@ US page. Paid yearly, per user. [https://www.microsoft.com/en-us/microsoft-365-c
 
 ## Cursor
 
-Monthly only. Other listed Cursor prices exclude tax. [https://cursor.com/pricing](https://cursor.com/pricing)
+Seen 1 November 2026. Updated 1 November 2026: individual plans are now Free, Plus, Premium, Super and Ultra, and Teams seats are priced per plan.
 
-- Hobby is free.
-- Pro is $20 a month.
-- Pro+ is $60.
-- Ultra is $200.
-- Teams Standard is $40 per user a month.
-- Teams Premium is $120 per user a month.
-- India Start is ₹649 a month, tax inclusive.
+Monthly prices, excluding tax. Third-party model usage is not included in these prices. [https://cursor.com/pricing](https://cursor.com/pricing)
+
+- Free is $0.
+- Plus is $8 a month.
+- Premium is $30 a month.
+- Super is $100 a month.
+- Ultra is $200 a month.
+- Teams seats are Premium at $30, Super at $100, or Ultra at $200 per user a month. [https://cursor.com/docs/account/teams/pricing](https://cursor.com/docs/account/teams/pricing)
+- Teams created before the change keep Standard at $40 and Premium at $120 per user a month.
 
 Notion, Fireflies, Otter, Perplexity, and Canva were left out because the pages didn't support a clean price.
 

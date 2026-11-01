@@ -1,10 +1,10 @@
 # Briefs
 
-> Ten public notes. Prices and quotes were read from vendor pages on 3 October 2026. This is not a buying recommendation.
+> Ten public notes. Prices and quotes were read from vendor pages on 3 October 2026; Claude and Cursor prices were read on 1 November 2026. This is not a buying recommendation.
 
 ## Notes
 
-- [What do the listed AI plans cost?](https://shoji82.github.io/briefs/prices.html): These prices were read from vendor pages on 3 October 2026. They can change. This is not a buying recommendation.
+- [What do the listed AI plans cost?](https://shoji82.github.io/briefs/prices.html): These prices were read from vendor pages on 3 October 2026, except Claude and Cursor, read on 1 November 2026. They can change. This is not a buying recommendation.
 - [What questions do the pages still ask?](https://shoji82.github.io/briefs/questions.html): These questions were read from the pages on 3 October 2026, including https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training.
 - [What do the pages say about training and data?](https://shoji82.github.io/briefs/training-and-data.html): These quotes were read on 3 October 2026.
 - [Is there one GitHub Copilot training rule for every plan?](https://shoji82.github.io/briefs/copilot-training.html): As of 4 October 2026, this note does not state one training rule for every plan.
