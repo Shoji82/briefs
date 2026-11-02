@@ -15,6 +15,8 @@ Last checked: 2 November 2026. The FTC case page, press release, complaint and s
 
 Filed version cited; entered order sits behind PACER. PACER is the US federal courts' paid records system. The order the judge entered on 30 April 2026 (docket entry 17) is there; this note quotes the stipulated order as filed on 30 March 2026.
 
+Archive copies: on 2 November 2026 each Wayback "archived copy" of the FTC case page, press release, complaint and order was checked and is byte-for-byte the same (by SHA-256 hash) as the copy saved for this note. The archive.today "second archive" copies could not be downloaded for a hash check; on 2 November 2026 each was checked by eye. Each shows the matching search.ftc.gov address; the two PDFs also show case 3:26-cv-00996-K, docket document 1 (complaint, 10 pages) and 3-1 (order, 9 pages).
+
 ## Short answer
 
 - **What the FTC alleges:** "In response to this request, Humor Rainbow gave the Data Recipient access to nearly three million OkCupid user photos." ([Complaint](https://search.ftc.gov/system/files/ftc_gov/pdf/OkCupid-MatchComplaint.pdf) ([archived copy](https://web.archive.org/web/20261102000142/https://search.ftc.gov/system/files/ftc_gov/pdf/OkCupid-MatchComplaint.pdf)) ([second archive](https://archive.ph/LuwrV)), ¶34, p. 6). The complaint names the Data Recipient as Clarifai, Inc. (¶32, p. 6).
