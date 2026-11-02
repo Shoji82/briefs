@@ -1,7 +1,7 @@
 ---
 title: "What do the listed AI plans cost?"
-description: "These prices were read from vendor pages on 3 October 2026, except Claude and Cursor, read on 1 November 2026. They can change. This is not a buying recommendation. https://learn.chatgpt.com/docs/pricing"
-last_modified_at: 2026-11-02
+description: "These prices were read from vendor pages on 3 November 2026. They can change. This is not a buying recommendation. https://learn.chatgpt.com/docs/pricing"
+last_modified_at: 2026-11-03
 seo:
   type: Article
 date: 2026-10-03
@@ -9,15 +9,17 @@ date: 2026-10-03
 
 # What do the listed AI plans cost?
 
-These prices were read from vendor pages on 3 October 2026, except Claude and Cursor, read on 1 November 2026. They can change. This is not a buying recommendation. [https://learn.chatgpt.com/docs/pricing](https://learn.chatgpt.com/docs/pricing)
+These prices were read from vendor pages on 3 November 2026. They can change. This is not a buying recommendation. [https://learn.chatgpt.com/docs/pricing](https://learn.chatgpt.com/docs/pricing)
 
-Last checked: the Claude and Cursor sections were re-read on 2 November 2026. The ChatGPT, Gemini, Microsoft 365 Copilot and GitHub Copilot sections were last read on 3 October 2026.
+Last checked: 3 November 2026. Every section below was re-read that day.
 
-Updated 2 November 2026: added the Last checked line above and removed the repeated question line under the heading. No prices changed.
+Updated 3 November 2026: all prices were re-read and none changed. The Claude and Cursor changes noted below were first seen on 1 November 2026.
+
+Updated 2 November 2026: added a Last checked line and removed the repeated question line under the heading. No prices changed.
 
 ## ChatGPT
 
-Seen 3 October 2026.
+Seen 3 October 2026; re-read 3 November 2026, unchanged.
 
 - Go is $8 a month. [https://learn.chatgpt.com/docs/pricing](https://learn.chatgpt.com/docs/pricing)
 - Plus is $20 a month, billed monthly, with no annual billing. [https://help.openai.com/en/articles/6950777-what-is-chatgpt-plus](https://help.openai.com/en/articles/6950777-what-is-chatgpt-plus)

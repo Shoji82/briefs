@@ -1,6 +1,6 @@
 ---
 title: "What questions do the pages still ask?"
-description: "These questions were read from the pages on 3 October 2026, including https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training."
+description: "These questions were last checked on their pages on 2 November 2026, including https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training."
 last_modified_at: 2026-11-02
 seo:
   type: Article

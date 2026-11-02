@@ -1,6 +1,6 @@
 ---
 title: "What do the pages say about training and data?"
-description: "These quotes were read on 3 October 2026. This is not a buying recommendation. One page quoted here is https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training."
+description: "These quotes were last checked on 2 November 2026. This is not a buying recommendation. One page quoted here is https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training."
 last_modified_at: 2026-11-02
 seo:
   type: Article
