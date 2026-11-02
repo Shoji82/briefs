@@ -1,6 +1,6 @@
 # Briefs
 
-> Ten public notes on what AI vendors' own pages say about training on your data. Each entry gives the date its sources were last checked. Prices can change. This is not a buying recommendation.
+> Eleven public notes on what AI vendors' own pages say about training on your data. Each entry gives the date its sources were last checked. Prices can change. This is not a buying recommendation.
 
 ## Notes
 
@@ -14,3 +14,4 @@
 - [Does a person review Microsoft Copilot prompts?](https://shoji82.github.io/briefs/microsoft-copilot-human-review.html): As of 2 November 2026, this note does not say a person never sees a prompt. Last checked 2 November 2026.
 - [Are Workspace customer prompts in Google's foundation-model training set?](https://shoji82.github.io/briefs/google-foundation-training.html): As of 2 November 2026, this note does not say Workspace customer prompts are, or are not, in that training set. Last checked 2 November 2026.
 - [Gemini Keep Activity: on by default for personal accounts, 18+](https://shoji82.github.io/briefs/gemini-apps-keep-activity.html): For a personal account, 18 or over, Gemini Keep Activity is on by default. Off still keeps chats for up to 72 hours. Work or school accounts are admin-controlled. Last checked 2 November 2026.
+- [OkCupid gave Clarifai nearly three million photos, FTC alleges](https://shoji82.github.io/briefs/okcupid-ftc-clarifai-photos.html): The FTC alleges OkCupid gave Clarifai, a facial recognition technology company, nearly three million user photos in 2014 with no opt-out. Defendants neither admit nor deny. The 20-year order bans misrepresentations and sets no money. FTC documents do not mention training. Last checked 2 November 2026.
