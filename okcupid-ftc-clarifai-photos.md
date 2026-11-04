@@ -2,7 +2,7 @@
 title: "OkCupid gave Clarifai nearly three million photos, FTC alleges"
 description: "The FTC alleges OkCupid gave Clarifai, a facial recognition technology company, nearly three million user photos in 2014 with no opt-out. The 20-year order bans misrepresentations and sets no money. Checked 2 November 2026."
 date: 2026-11-02
-last_modified_at: 2026-11-02
+last_modified_at: 2026-11-05
 seo:
   type: Article
 ---
@@ -17,12 +17,14 @@ Filed version cited; entered order sits behind PACER. PACER is the US federal co
 
 Archive copies: on 2 November 2026 each Wayback "archived copy" of the FTC case page, press release, complaint and order was checked and is byte-for-byte the same (by SHA-256 hash) as the copy saved for this note. The archive.today "second archive" copies could not be downloaded for a hash check; on 2 November 2026 each was checked by eye. Each shows the matching search.ftc.gov address; the two PDFs also show case 3:26-cv-00996-K, docket document 1 (complaint, 10 pages) and 3-1 (order, 9 pages).
 
+On 5 November 2026 Wayback stopped serving the 2 November captures of four sources. The FTC case page, press release and complaint links now point to new captures made on 5 November 2026; the complaint copy is byte-for-byte the same (by SHA-256 hash) as the saved copy, and the case page and press release text matches except a rotating FTC site headline. The CourtListener docket could not be re-archived that day, so its archive link was removed and only the live docket is linked.
+
 ## Short answer
 
-- **What the FTC alleges:** "In response to this request, Humor Rainbow gave the Data Recipient access to nearly three million OkCupid user photos." ([Complaint](https://search.ftc.gov/system/files/ftc_gov/pdf/OkCupid-MatchComplaint.pdf) ([archived copy](https://web.archive.org/web/20261102000142/https://search.ftc.gov/system/files/ftc_gov/pdf/OkCupid-MatchComplaint.pdf)) ([second archive](https://archive.ph/LuwrV)), ¶34, p. 6). The complaint names the Data Recipient as Clarifai, Inc. (¶32, p. 6).
+- **What the FTC alleges:** "In response to this request, Humor Rainbow gave the Data Recipient access to nearly three million OkCupid user photos." ([Complaint](https://search.ftc.gov/system/files/ftc_gov/pdf/OkCupid-MatchComplaint.pdf) ([archived copy](https://web.archive.org/web/20261104215015/https://search.ftc.gov/system/files/ftc_gov/pdf/OkCupid-MatchComplaint.pdf)) ([second archive](https://archive.ph/LuwrV)), ¶34, p. 6). The complaint names the Data Recipient as Clarifai, Inc. (¶32, p. 6).
 - **Who Clarifai is, in the order's words:** "a third-party facial recognition technology company" ([Stipulated order](https://search.ftc.gov/system/files/ftc_gov/pdf/MatchGroupAmericasandHumorRainbowStipulatedOrder.pdf) ([archived copy](https://web.archive.org/web/20261102000150/https://search.ftc.gov/system/files/ftc_gov/pdf/MatchGroupAmericasandHumorRainbowStipulatedOrder.pdf)) ([second archive](https://archive.ph/1SnyF)), ¶2, p. 1).
 - **Admission:** "Defendants neither admit nor deny any of the allegations in the Complaint, except as specifically stated in this Order." (order, ¶3, p. 2)
-- **Court status:** the CourtListener docket lists entry 17, "STIPULATED ORDER FOR PERMANENT INJUNCTION AND OTHER RELIEF. (Ordered by Judge Ed Kinkeade on 4/30/2026)", and "Civil Case Terminated" the same day. The [FTC case page](https://search.ftc.gov/legal-library/browse/cases-proceedings/okcupidmatch) ([archived copy](https://web.archive.org/web/20261102000104/https://search.ftc.gov/legal-library/browse/cases-proceedings/okcupidmatch)) ([second archive](https://archive.ph/PfI5O)) still showed "Last Updated March 30, 2026" and "Case Status Pending" when read on 2 November 2026 at 10:26 ACDT.
+- **Court status:** when read on 2 November 2026, the CourtListener docket listed entry 17, "STIPULATED ORDER FOR PERMANENT INJUNCTION AND OTHER RELIEF. (Ordered by Judge Ed Kinkeade on 4/30/2026)", and "Civil Case Terminated" the same day. The [FTC case page](https://search.ftc.gov/legal-library/browse/cases-proceedings/okcupidmatch) ([archived copy](https://web.archive.org/web/20261104215056/https://search.ftc.gov/legal-library/browse/cases-proceedings/okcupidmatch)) ([second archive](https://archive.ph/PfI5O)) still showed "Last Updated March 30, 2026" and "Case Status Pending" when read on 2 November 2026 at 10:26 ACDT.
 - **Training:** the FTC complaint and order do not use the words "train", "training" or "model". See [What the news reports add](#what-the-news-reports-add-not-the-ftc).
 
 ## The case at a glance
@@ -30,8 +32,8 @@ Archive copies: on 2 November 2026 each Wayback "archived copy" of the FTC case 
 | Item | What the documents say | Source |
 |---|---|---|
 | Case | FTC v. Match Group Americas, LLC and Humor Rainbow, Inc. (d/b/a OkCupid), Case No. 3:26-cv-996, N.D. Texas, Dallas Division | Complaint, caption, p. 1 |
-| Filed | 30 March 2026 | [FTC case page](https://search.ftc.gov/legal-library/browse/cases-proceedings/okcupidmatch) ([archived copy](https://web.archive.org/web/20261102000104/https://search.ftc.gov/legal-library/browse/cases-proceedings/okcupidmatch)) ([second archive](https://archive.ph/PfI5O)); [CourtListener docket](https://www.courtlistener.com/docket/73110121/federal-trade-commission-v-match-group-americas-llc/) ([archived copy](https://web.archive.org/web/20261102000243/https://www.courtlistener.com/docket/73110121/federal-trade-commission-v-match-group-americas-llc/)) |
-| Order entered | 30 April 2026, Judge Ed Kinkeade (docket entry 17) | CourtListener docket |
+| Filed | 30 March 2026 | [FTC case page](https://search.ftc.gov/legal-library/browse/cases-proceedings/okcupidmatch) ([archived copy](https://web.archive.org/web/20261104215056/https://search.ftc.gov/legal-library/browse/cases-proceedings/okcupidmatch)) ([second archive](https://archive.ph/PfI5O)); [CourtListener docket](https://www.courtlistener.com/docket/73110121/federal-trade-commission-v-match-group-americas-llc/) |
+| Order entered | 30 April 2026, Judge Ed Kinkeade (docket entry 17) | CourtListener docket, as read on 2 November 2026 |
 | Photos | "nearly three million OkCupid user photos" | Complaint ¶34, p. 6 |
 | When shared | "In September 2014, however, Humor Rainbow gave an unrelated third-party company (the “Data Recipient”) access to the personal data of millions of OkCupid users" | Complaint ¶5, p. 2 |
 | Recipient | Clarifai, Inc., "(i.e., the Data Recipient)" | Complaint ¶32, p. 6 |
@@ -77,11 +79,11 @@ The FTC documents say "facial recognition technology company" and do not mention
 
 ## Sources
 
-- [FTC case page: OkCupid/Match](https://search.ftc.gov/legal-library/browse/cases-proceedings/okcupidmatch) ([archived copy](https://web.archive.org/web/20261102000104/https://search.ftc.gov/legal-library/browse/cases-proceedings/okcupidmatch)) ([second archive](https://archive.ph/PfI5O))
-- [FTC press release, 30 March 2026](https://search.ftc.gov/news-events/news/press-releases/2026/03/ftc-takes-action-against-match-okcupid-deceiving-users-sharing-personal-data-third-party) ([archived copy](https://web.archive.org/web/20261102000125/https://search.ftc.gov/news-events/news/press-releases/2026/03/ftc-takes-action-against-match-okcupid-deceiving-users-sharing-personal-data-third-party)) ([second archive](https://archive.ph/mkanE))
-- [Complaint (PDF)](https://search.ftc.gov/system/files/ftc_gov/pdf/OkCupid-MatchComplaint.pdf) ([archived copy](https://web.archive.org/web/20261102000142/https://search.ftc.gov/system/files/ftc_gov/pdf/OkCupid-MatchComplaint.pdf)) ([second archive](https://archive.ph/LuwrV))
+- [FTC case page: OkCupid/Match](https://search.ftc.gov/legal-library/browse/cases-proceedings/okcupidmatch) ([archived copy](https://web.archive.org/web/20261104215056/https://search.ftc.gov/legal-library/browse/cases-proceedings/okcupidmatch)) ([second archive](https://archive.ph/PfI5O))
+- [FTC press release, 30 March 2026](https://search.ftc.gov/news-events/news/press-releases/2026/03/ftc-takes-action-against-match-okcupid-deceiving-users-sharing-personal-data-third-party) ([archived copy](https://web.archive.org/web/20261104215211/https://search.ftc.gov/news-events/news/press-releases/2026/03/ftc-takes-action-against-match-okcupid-deceiving-users-sharing-personal-data-third-party)) ([second archive](https://archive.ph/mkanE))
+- [Complaint (PDF)](https://search.ftc.gov/system/files/ftc_gov/pdf/OkCupid-MatchComplaint.pdf) ([archived copy](https://web.archive.org/web/20261104215015/https://search.ftc.gov/system/files/ftc_gov/pdf/OkCupid-MatchComplaint.pdf)) ([second archive](https://archive.ph/LuwrV))
 - [Stipulated order (PDF)](https://search.ftc.gov/system/files/ftc_gov/pdf/MatchGroupAmericasandHumorRainbowStipulatedOrder.pdf) ([archived copy](https://web.archive.org/web/20261102000150/https://search.ftc.gov/system/files/ftc_gov/pdf/MatchGroupAmericasandHumorRainbowStipulatedOrder.pdf)) ([second archive](https://archive.ph/1SnyF))
-- [CourtListener docket, 3:26-cv-00996](https://www.courtlistener.com/docket/73110121/federal-trade-commission-v-match-group-americas-llc/) ([archived copy](https://web.archive.org/web/20261102000243/https://www.courtlistener.com/docket/73110121/federal-trade-commission-v-match-group-americas-llc/))
+- [CourtListener docket, 3:26-cv-00996](https://www.courtlistener.com/docket/73110121/federal-trade-commission-v-match-group-americas-llc/)
 
 ## Related notes
 
